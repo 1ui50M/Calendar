@@ -1,0 +1,159 @@
+body {
+  display: flex;
+  background-color: hsl(0, 0%, 86%);
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+.recuadro {
+  background-color: white;
+  height: 550px;
+  width: 700px;
+  border-top-right-radius: 12px;
+  border-top-left-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 143px;
+}
+.year {
+  display: flex;
+}
+.days {
+  font-family: "Poppins", sans-serif;
+  color: hsl(0, 1%, 44%);
+  font-size: 12px;
+  letter-spacing: 1.5px;
+  margin: 42px 0px 0px 42px;
+}
+.dd {
+  display: flex;
+  align-items: center;
+  height: 52px;
+  width: 132px;
+  border: 1px solid hsl(0, 0%, 86%);
+  margin: 12px 0px 0px 42px;
+  border-radius: 6px;
+}
+.DD {
+  color: black;
+  font-weight: 700;
+  font-size: 25px;
+  font-family: "Poppins", sans-serif;
+  margin: 0px 18px;
+}
+.months {
+  font-family: "Poppins", sans-serif;
+  color: hsl(0, 1%, 44%);
+  font-size: 12px;
+  letter-spacing: 1.5px;
+  margin: 42px 0px 0px 42px;
+}
+.mm {
+  display: flex;
+  align-items: center;
+  height: 52px;
+  width: 132px;
+  border: 1px solid hsl(0, 0%, 86%);
+  margin: 12px 0px 0px 42px;
+  border-radius: 6px;
+}
+.MM {
+  color: black;
+  font-weight: 700;
+  font-size: 25px;
+  font-family: "Poppins", sans-serif;
+  margin: 0px 18px;
+}
+.years {
+  font-family: "Poppins", sans-serif;
+  color: hsl(0, 1%, 44%);
+  font-size: 12px;
+  letter-spacing: 1.5px;
+  margin: 42px 0px 0px 42px;
+}
+.yyyy {
+  display: flex;
+  align-items: center;
+  height: 52px;
+  width: 132px;
+  border: 1px solid hsl(0, 0%, 86%);
+  margin: 12px 0px 0px 42px;
+  border-radius: 6px;
+}
+.YYYY {
+  color: black;
+  font-weight: 700;
+  font-size: 25px;
+  font-family: "Poppins", sans-serif;
+  margin: 0px 18px;
+}
+.icon-star {
+  width: 75px;
+  height: 75px;
+}
+.line {
+  display: flex;
+}
+.LINE {
+  width: 500px;
+  height: 0px;
+  border: 0.5px solid hsl(0, 0%, 86%);
+  margin: 32px 0px 0px 42px;
+}
+.hola {
+  font-size: 2px;
+}
+.numero {
+  color:  blueviolet;
+  font-family: "Poppins", sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+  margin: 0px 0px 0px 42px;
+}
+.an {
+  color: black;
+  font-family: "Poppins", sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+}
+.numero_1 {
+  color:  blueviolet;
+  font-family: "Poppins", sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+  margin: 0px 0px 0px 42px;
+}
+.meses {
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+}
+.numero_2 {
+  color:  blueviolet;
+  font-family: "Poppins", sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+  margin: 0px 0px 0px 42px;
+}
+.dias {
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+}
+.treinta {
+  display: flex;
+  margin: 0px;
+}
+.tres {
+  display: flex;
+}
+.veinte {
+  display: flex;
+}
+.todo {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.1;
+  color: blueviolet;
+}
